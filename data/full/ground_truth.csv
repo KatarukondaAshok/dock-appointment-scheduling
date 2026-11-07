@@ -1,0 +1,361 @@
+anomaly_id,issue_type,entity,entity_id,related_entity_id,role,rule_violated,expected_decision
+GT-00001,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-000114,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00002,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-000182,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00003,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-000590,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00004,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-000661,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00005,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-000741,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00006,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-000907,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00007,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-001444,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00008,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-001837,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00009,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-001951,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00010,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-002430,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00011,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-002519,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00012,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-002818,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00013,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-002856,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00014,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-003140,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00015,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-003177,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00016,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-004315,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00017,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-004332,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00018,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-004607,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00019,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-004937,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00020,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-005268,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00021,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-005550,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00022,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-005938,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00023,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-006032,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00024,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-006596,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00025,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-006687,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00026,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-007677,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00027,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-008245,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00028,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-008297,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00029,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-008422,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00030,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-008611,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00031,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-010497,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00032,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-010788,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00033,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-010845,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00034,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-010930,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00035,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-011048,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00036,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-011223,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00037,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-011629,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00038,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-012127,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00039,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-012621,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00040,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-012664,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00041,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-013554,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00042,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-013824,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00043,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-014015,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00044,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-014056,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00045,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-014670,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00046,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-014990,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00047,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-015248,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00048,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-015909,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00049,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-016226,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00050,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-016247,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00051,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-016619,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00052,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-017141,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00053,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-017842,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00054,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-018379,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00055,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-018816,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00056,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-018956,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00057,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-019057,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00058,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-019164,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00059,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-019825,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00060,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-019950,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00061,INCOMPATIBLE_LOAD,Appointment,APPT-2026-000432,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00062,INCOMPATIBLE_LOAD,Appointment,APPT-2026-000824,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00063,INCOMPATIBLE_LOAD,Appointment,APPT-2026-000984,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00064,INCOMPATIBLE_LOAD,Appointment,APPT-2026-001096,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00065,INCOMPATIBLE_LOAD,Appointment,APPT-2026-001482,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00066,INCOMPATIBLE_LOAD,Appointment,APPT-2026-001486,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00067,INCOMPATIBLE_LOAD,Appointment,APPT-2026-001546,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00068,INCOMPATIBLE_LOAD,Appointment,APPT-2026-001578,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00069,INCOMPATIBLE_LOAD,Appointment,APPT-2026-002397,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00070,INCOMPATIBLE_LOAD,Appointment,APPT-2026-002483,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00071,INCOMPATIBLE_LOAD,Appointment,APPT-2026-002737,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00072,INCOMPATIBLE_LOAD,Appointment,APPT-2026-004297,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00073,INCOMPATIBLE_LOAD,Appointment,APPT-2026-004426,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00074,INCOMPATIBLE_LOAD,Appointment,APPT-2026-005352,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00075,INCOMPATIBLE_LOAD,Appointment,APPT-2026-005362,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00076,INCOMPATIBLE_LOAD,Appointment,APPT-2026-005373,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00077,INCOMPATIBLE_LOAD,Appointment,APPT-2026-005860,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00078,INCOMPATIBLE_LOAD,Appointment,APPT-2026-006371,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00079,INCOMPATIBLE_LOAD,Appointment,APPT-2026-006428,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00080,INCOMPATIBLE_LOAD,Appointment,APPT-2026-006628,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00081,INCOMPATIBLE_LOAD,Appointment,APPT-2026-006680,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00082,INCOMPATIBLE_LOAD,Appointment,APPT-2026-006721,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00083,INCOMPATIBLE_LOAD,Appointment,APPT-2026-007004,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00084,INCOMPATIBLE_LOAD,Appointment,APPT-2026-007558,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00085,INCOMPATIBLE_LOAD,Appointment,APPT-2026-007685,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00086,INCOMPATIBLE_LOAD,Appointment,APPT-2026-007816,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00087,INCOMPATIBLE_LOAD,Appointment,APPT-2026-008202,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00088,INCOMPATIBLE_LOAD,Appointment,APPT-2026-008610,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00089,INCOMPATIBLE_LOAD,Appointment,APPT-2026-010818,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00090,INCOMPATIBLE_LOAD,Appointment,APPT-2026-010972,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00091,INCOMPATIBLE_LOAD,Appointment,APPT-2026-011023,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00092,INCOMPATIBLE_LOAD,Appointment,APPT-2026-011711,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00093,INCOMPATIBLE_LOAD,Appointment,APPT-2026-012010,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00094,INCOMPATIBLE_LOAD,Appointment,APPT-2026-012692,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00095,INCOMPATIBLE_LOAD,Appointment,APPT-2026-012783,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00096,INCOMPATIBLE_LOAD,Appointment,APPT-2026-013221,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00097,INCOMPATIBLE_LOAD,Appointment,APPT-2026-013540,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00098,INCOMPATIBLE_LOAD,Appointment,APPT-2026-014104,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00099,INCOMPATIBLE_LOAD,Appointment,APPT-2026-014993,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00100,INCOMPATIBLE_LOAD,Appointment,APPT-2026-015168,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00101,INCOMPATIBLE_LOAD,Appointment,APPT-2026-015329,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00102,INCOMPATIBLE_LOAD,Appointment,APPT-2026-015395,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00103,INCOMPATIBLE_LOAD,Appointment,APPT-2026-015503,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00104,INCOMPATIBLE_LOAD,Appointment,APPT-2026-016157,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00105,INCOMPATIBLE_LOAD,Appointment,APPT-2026-016178,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00106,INCOMPATIBLE_LOAD,Appointment,APPT-2026-016737,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00107,INCOMPATIBLE_LOAD,Appointment,APPT-2026-016743,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00108,INCOMPATIBLE_LOAD,Appointment,APPT-2026-016809,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00109,INCOMPATIBLE_LOAD,Appointment,APPT-2026-016985,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00110,INCOMPATIBLE_LOAD,Appointment,APPT-2026-017029,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00111,INCOMPATIBLE_LOAD,Appointment,APPT-2026-017695,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00112,INCOMPATIBLE_LOAD,Appointment,APPT-2026-018078,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00113,INCOMPATIBLE_LOAD,Appointment,APPT-2026-018480,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00114,INCOMPATIBLE_LOAD,Appointment,APPT-2026-018517,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00115,INCOMPATIBLE_LOAD,Appointment,APPT-2026-018953,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00116,INCOMPATIBLE_LOAD,Appointment,APPT-2026-019083,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00117,INCOMPATIBLE_LOAD,Appointment,APPT-2026-019107,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00118,INCOMPATIBLE_LOAD,Appointment,APPT-2026-019448,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00119,INCOMPATIBLE_LOAD,Appointment,APPT-2026-019648,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00120,INCOMPATIBLE_LOAD,Appointment,APPT-2026-019971,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00121,LABOR_UNAVAILABLE,Appointment,APPT-2026-000357,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00122,LABOR_UNAVAILABLE,Appointment,APPT-2026-000596,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00123,LABOR_UNAVAILABLE,Appointment,APPT-2026-000701,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00124,LABOR_UNAVAILABLE,Appointment,APPT-2026-001312,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00125,LABOR_UNAVAILABLE,Appointment,APPT-2026-001803,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00126,LABOR_UNAVAILABLE,Appointment,APPT-2026-002079,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00127,LABOR_UNAVAILABLE,Appointment,APPT-2026-002094,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00128,LABOR_UNAVAILABLE,Appointment,APPT-2026-002232,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00129,LABOR_UNAVAILABLE,Appointment,APPT-2026-002271,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00130,LABOR_UNAVAILABLE,Appointment,APPT-2026-002428,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00131,LABOR_UNAVAILABLE,Appointment,APPT-2026-002518,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00132,LABOR_UNAVAILABLE,Appointment,APPT-2026-003401,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00133,LABOR_UNAVAILABLE,Appointment,APPT-2026-003535,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00134,LABOR_UNAVAILABLE,Appointment,APPT-2026-003597,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00135,LABOR_UNAVAILABLE,Appointment,APPT-2026-003625,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00136,LABOR_UNAVAILABLE,Appointment,APPT-2026-003791,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00137,LABOR_UNAVAILABLE,Appointment,APPT-2026-003914,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00138,LABOR_UNAVAILABLE,Appointment,APPT-2026-004962,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00139,LABOR_UNAVAILABLE,Appointment,APPT-2026-005073,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00140,LABOR_UNAVAILABLE,Appointment,APPT-2026-005244,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00141,LABOR_UNAVAILABLE,Appointment,APPT-2026-005276,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00142,LABOR_UNAVAILABLE,Appointment,APPT-2026-005359,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00143,LABOR_UNAVAILABLE,Appointment,APPT-2026-005977,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00144,LABOR_UNAVAILABLE,Appointment,APPT-2026-006155,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00145,LABOR_UNAVAILABLE,Appointment,APPT-2026-006540,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00146,LABOR_UNAVAILABLE,Appointment,APPT-2026-006878,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00147,LABOR_UNAVAILABLE,Appointment,APPT-2026-007290,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00148,LABOR_UNAVAILABLE,Appointment,APPT-2026-007305,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00149,LABOR_UNAVAILABLE,Appointment,APPT-2026-007448,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00150,LABOR_UNAVAILABLE,Appointment,APPT-2026-007852,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00151,LABOR_UNAVAILABLE,Appointment,APPT-2026-008278,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00152,LABOR_UNAVAILABLE,Appointment,APPT-2026-008788,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00153,LABOR_UNAVAILABLE,Appointment,APPT-2026-009114,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00154,LABOR_UNAVAILABLE,Appointment,APPT-2026-009167,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00155,LABOR_UNAVAILABLE,Appointment,APPT-2026-009215,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00156,LABOR_UNAVAILABLE,Appointment,APPT-2026-009943,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00157,LABOR_UNAVAILABLE,Appointment,APPT-2026-010511,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00158,LABOR_UNAVAILABLE,Appointment,APPT-2026-010856,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00159,LABOR_UNAVAILABLE,Appointment,APPT-2026-010933,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00160,LABOR_UNAVAILABLE,Appointment,APPT-2026-011014,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00161,LABOR_UNAVAILABLE,Appointment,APPT-2026-011229,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00162,LABOR_UNAVAILABLE,Appointment,APPT-2026-011502,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00163,LABOR_UNAVAILABLE,Appointment,APPT-2026-011865,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00164,LABOR_UNAVAILABLE,Appointment,APPT-2026-011873,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00165,LABOR_UNAVAILABLE,Appointment,APPT-2026-012058,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00166,LABOR_UNAVAILABLE,Appointment,APPT-2026-012509,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00167,LABOR_UNAVAILABLE,Appointment,APPT-2026-012602,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00168,LABOR_UNAVAILABLE,Appointment,APPT-2026-012643,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00169,LABOR_UNAVAILABLE,Appointment,APPT-2026-012771,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00170,LABOR_UNAVAILABLE,Appointment,APPT-2026-013062,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00171,LABOR_UNAVAILABLE,Appointment,APPT-2026-013196,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00172,LABOR_UNAVAILABLE,Appointment,APPT-2026-013735,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00173,LABOR_UNAVAILABLE,Appointment,APPT-2026-013973,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00174,LABOR_UNAVAILABLE,Appointment,APPT-2026-014361,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00175,LABOR_UNAVAILABLE,Appointment,APPT-2026-014614,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00176,LABOR_UNAVAILABLE,Appointment,APPT-2026-015016,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00177,LABOR_UNAVAILABLE,Appointment,APPT-2026-016514,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00178,LABOR_UNAVAILABLE,Appointment,APPT-2026-017099,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00179,LABOR_UNAVAILABLE,Appointment,APPT-2026-018057,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00180,LABOR_UNAVAILABLE,Appointment,APPT-2026-018424,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00181,NOSHOW_UNRECORDED,Appointment,APPT-2026-000155,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00182,NOSHOW_UNRECORDED,Appointment,APPT-2026-000467,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00183,NOSHOW_UNRECORDED,Appointment,APPT-2026-000634,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00184,NOSHOW_UNRECORDED,Appointment,APPT-2026-000773,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00185,NOSHOW_UNRECORDED,Appointment,APPT-2026-000801,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00186,NOSHOW_UNRECORDED,Appointment,APPT-2026-001190,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00187,NOSHOW_UNRECORDED,Appointment,APPT-2026-001311,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00188,NOSHOW_UNRECORDED,Appointment,APPT-2026-002176,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00189,NOSHOW_UNRECORDED,Appointment,APPT-2026-002634,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00190,NOSHOW_UNRECORDED,Appointment,APPT-2026-002643,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00191,NOSHOW_UNRECORDED,Appointment,APPT-2026-002663,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00192,NOSHOW_UNRECORDED,Appointment,APPT-2026-002852,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00193,NOSHOW_UNRECORDED,Appointment,APPT-2026-002996,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00194,NOSHOW_UNRECORDED,Appointment,APPT-2026-003101,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00195,NOSHOW_UNRECORDED,Appointment,APPT-2026-003230,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00196,NOSHOW_UNRECORDED,Appointment,APPT-2026-003232,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00197,NOSHOW_UNRECORDED,Appointment,APPT-2026-003321,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00198,NOSHOW_UNRECORDED,Appointment,APPT-2026-003517,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00199,NOSHOW_UNRECORDED,Appointment,APPT-2026-003544,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00200,NOSHOW_UNRECORDED,Appointment,APPT-2026-003798,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00201,NOSHOW_UNRECORDED,Appointment,APPT-2026-004448,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00202,NOSHOW_UNRECORDED,Appointment,APPT-2026-004549,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00203,NOSHOW_UNRECORDED,Appointment,APPT-2026-004553,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00204,NOSHOW_UNRECORDED,Appointment,APPT-2026-005273,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00205,NOSHOW_UNRECORDED,Appointment,APPT-2026-005382,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00206,NOSHOW_UNRECORDED,Appointment,APPT-2026-005767,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00207,NOSHOW_UNRECORDED,Appointment,APPT-2026-006812,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00208,NOSHOW_UNRECORDED,Appointment,APPT-2026-006865,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00209,NOSHOW_UNRECORDED,Appointment,APPT-2026-006909,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00210,NOSHOW_UNRECORDED,Appointment,APPT-2026-007220,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00211,NOSHOW_UNRECORDED,Appointment,APPT-2026-007882,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00212,NOSHOW_UNRECORDED,Appointment,APPT-2026-007896,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00213,NOSHOW_UNRECORDED,Appointment,APPT-2026-007965,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00214,NOSHOW_UNRECORDED,Appointment,APPT-2026-008030,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00215,NOSHOW_UNRECORDED,Appointment,APPT-2026-008140,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00216,NOSHOW_UNRECORDED,Appointment,APPT-2026-008917,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00217,NOSHOW_UNRECORDED,Appointment,APPT-2026-009651,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00218,NOSHOW_UNRECORDED,Appointment,APPT-2026-010465,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00219,NOSHOW_UNRECORDED,Appointment,APPT-2026-011042,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00220,NOSHOW_UNRECORDED,Appointment,APPT-2026-011102,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00221,NOSHOW_UNRECORDED,Appointment,APPT-2026-011667,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00222,NOSHOW_UNRECORDED,Appointment,APPT-2026-011843,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00223,NOSHOW_UNRECORDED,Appointment,APPT-2026-011996,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00224,NOSHOW_UNRECORDED,Appointment,APPT-2026-013564,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00225,NOSHOW_UNRECORDED,Appointment,APPT-2026-014340,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00226,NOSHOW_UNRECORDED,Appointment,APPT-2026-014423,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00227,NOSHOW_UNRECORDED,Appointment,APPT-2026-014780,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00228,NOSHOW_UNRECORDED,Appointment,APPT-2026-015042,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00229,NOSHOW_UNRECORDED,Appointment,APPT-2026-015535,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00230,NOSHOW_UNRECORDED,Appointment,APPT-2026-015934,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00231,NOSHOW_UNRECORDED,Appointment,APPT-2026-016818,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00232,NOSHOW_UNRECORDED,Appointment,APPT-2026-017611,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00233,NOSHOW_UNRECORDED,Appointment,APPT-2026-017682,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00234,NOSHOW_UNRECORDED,Appointment,APPT-2026-017861,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00235,NOSHOW_UNRECORDED,Appointment,APPT-2026-017988,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00236,NOSHOW_UNRECORDED,Appointment,APPT-2026-018054,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00237,NOSHOW_UNRECORDED,Appointment,APPT-2026-018191,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00238,NOSHOW_UNRECORDED,Appointment,APPT-2026-018987,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00239,NOSHOW_UNRECORDED,Appointment,APPT-2026-019184,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00240,NOSHOW_UNRECORDED,Appointment,APPT-2026-019315,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00241,OVERLAP_CAPACITY,Appointment,APPT-2026-000201,APPT-2026-001387,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00242,OVERLAP_CAPACITY,Appointment,APPT-2026-000476,APPT-2026-000706,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00243,OVERLAP_CAPACITY,Appointment,APPT-2026-000545,APPT-2026-000901,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00244,OVERLAP_CAPACITY,Appointment,APPT-2026-000706,APPT-2026-000476,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00245,OVERLAP_CAPACITY,Appointment,APPT-2026-000817,APPT-2026-001114,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00246,OVERLAP_CAPACITY,Appointment,APPT-2026-000901,APPT-2026-000545,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00247,OVERLAP_CAPACITY,Appointment,APPT-2026-000995,APPT-2026-001056,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00248,OVERLAP_CAPACITY,Appointment,APPT-2026-001056,APPT-2026-000995,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00249,OVERLAP_CAPACITY,Appointment,APPT-2026-001078,APPT-2026-001990,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00250,OVERLAP_CAPACITY,Appointment,APPT-2026-001114,APPT-2026-000817,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00251,OVERLAP_CAPACITY,Appointment,APPT-2026-001326,APPT-2026-003083,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00252,OVERLAP_CAPACITY,Appointment,APPT-2026-001387,APPT-2026-000201,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00253,OVERLAP_CAPACITY,Appointment,APPT-2026-001990,APPT-2026-001078,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00254,OVERLAP_CAPACITY,Appointment,APPT-2026-002200,APPT-2026-002364,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00255,OVERLAP_CAPACITY,Appointment,APPT-2026-002364,APPT-2026-002200,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00256,OVERLAP_CAPACITY,Appointment,APPT-2026-002788,APPT-2026-004247,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00257,OVERLAP_CAPACITY,Appointment,APPT-2026-003083,APPT-2026-001326,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00258,OVERLAP_CAPACITY,Appointment,APPT-2026-003201,APPT-2026-004852,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00259,OVERLAP_CAPACITY,Appointment,APPT-2026-003259,APPT-2026-004271,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00260,OVERLAP_CAPACITY,Appointment,APPT-2026-003443,APPT-2026-004703,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00261,OVERLAP_CAPACITY,Appointment,APPT-2026-003461,APPT-2026-004550,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00262,OVERLAP_CAPACITY,Appointment,APPT-2026-004247,APPT-2026-002788,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00263,OVERLAP_CAPACITY,Appointment,APPT-2026-004271,APPT-2026-003259,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00264,OVERLAP_CAPACITY,Appointment,APPT-2026-004272,APPT-2026-005515,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00265,OVERLAP_CAPACITY,Appointment,APPT-2026-004550,APPT-2026-003461,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00266,OVERLAP_CAPACITY,Appointment,APPT-2026-004703,APPT-2026-003443,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00267,OVERLAP_CAPACITY,Appointment,APPT-2026-004852,APPT-2026-003201,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00268,OVERLAP_CAPACITY,Appointment,APPT-2026-005402,APPT-2026-006365,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00269,OVERLAP_CAPACITY,Appointment,APPT-2026-005408,APPT-2026-006001,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00270,OVERLAP_CAPACITY,Appointment,APPT-2026-005515,APPT-2026-004272,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00271,OVERLAP_CAPACITY,Appointment,APPT-2026-005709,APPT-2026-007489,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00272,OVERLAP_CAPACITY,Appointment,APPT-2026-006001,APPT-2026-005408,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00273,OVERLAP_CAPACITY,Appointment,APPT-2026-006022,APPT-2026-006659,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00274,OVERLAP_CAPACITY,Appointment,APPT-2026-006365,APPT-2026-005402,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00275,OVERLAP_CAPACITY,Appointment,APPT-2026-006475,APPT-2026-006602,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00276,OVERLAP_CAPACITY,Appointment,APPT-2026-006602,APPT-2026-006475,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00277,OVERLAP_CAPACITY,Appointment,APPT-2026-006659,APPT-2026-006022,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00278,OVERLAP_CAPACITY,Appointment,APPT-2026-006739,APPT-2026-007531,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00279,OVERLAP_CAPACITY,Appointment,APPT-2026-006766,APPT-2026-007023,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00280,OVERLAP_CAPACITY,Appointment,APPT-2026-006844,APPT-2026-008491,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00281,OVERLAP_CAPACITY,Appointment,APPT-2026-006866,APPT-2026-008748,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00282,OVERLAP_CAPACITY,Appointment,APPT-2026-006978,APPT-2026-008440,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00283,OVERLAP_CAPACITY,Appointment,APPT-2026-007023,APPT-2026-006766,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00284,OVERLAP_CAPACITY,Appointment,APPT-2026-007489,APPT-2026-005709,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00285,OVERLAP_CAPACITY,Appointment,APPT-2026-007531,APPT-2026-006739,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00286,OVERLAP_CAPACITY,Appointment,APPT-2026-007700,APPT-2026-008805,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00287,OVERLAP_CAPACITY,Appointment,APPT-2026-007750,APPT-2026-009725,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00288,OVERLAP_CAPACITY,Appointment,APPT-2026-008050,APPT-2026-008436,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00289,OVERLAP_CAPACITY,Appointment,APPT-2026-008072,APPT-2026-009364,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00290,OVERLAP_CAPACITY,Appointment,APPT-2026-008233,APPT-2026-009485,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00291,OVERLAP_CAPACITY,Appointment,APPT-2026-008436,APPT-2026-008050,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00292,OVERLAP_CAPACITY,Appointment,APPT-2026-008440,APPT-2026-006978,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00293,OVERLAP_CAPACITY,Appointment,APPT-2026-008491,APPT-2026-006844,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00294,OVERLAP_CAPACITY,Appointment,APPT-2026-008748,APPT-2026-006866,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00295,OVERLAP_CAPACITY,Appointment,APPT-2026-008805,APPT-2026-007700,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00296,OVERLAP_CAPACITY,Appointment,APPT-2026-009364,APPT-2026-008072,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00297,OVERLAP_CAPACITY,Appointment,APPT-2026-009485,APPT-2026-008233,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00298,OVERLAP_CAPACITY,Appointment,APPT-2026-009725,APPT-2026-007750,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00299,OVERLAP_CAPACITY,Appointment,APPT-2026-009927,APPT-2026-010786,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00300,OVERLAP_CAPACITY,Appointment,APPT-2026-009929,APPT-2026-010402,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00301,OVERLAP_CAPACITY,Appointment,APPT-2026-010402,APPT-2026-009929,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00302,OVERLAP_CAPACITY,Appointment,APPT-2026-010786,APPT-2026-009927,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00303,OVERLAP_CAPACITY,Appointment,APPT-2026-010987,APPT-2026-011400,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00304,OVERLAP_CAPACITY,Appointment,APPT-2026-011400,APPT-2026-010987,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00305,OVERLAP_CAPACITY,Appointment,APPT-2026-012203,APPT-2026-014389,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00306,OVERLAP_CAPACITY,Appointment,APPT-2026-012261,APPT-2026-013417,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00307,OVERLAP_CAPACITY,Appointment,APPT-2026-012288,APPT-2026-012399,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00308,OVERLAP_CAPACITY,Appointment,APPT-2026-012399,APPT-2026-012288,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00309,OVERLAP_CAPACITY,Appointment,APPT-2026-012455,APPT-2026-013566,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00310,OVERLAP_CAPACITY,Appointment,APPT-2026-012872,APPT-2026-012957,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00311,OVERLAP_CAPACITY,Appointment,APPT-2026-012957,APPT-2026-012872,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00312,OVERLAP_CAPACITY,Appointment,APPT-2026-013261,APPT-2026-014890,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00313,OVERLAP_CAPACITY,Appointment,APPT-2026-013417,APPT-2026-012261,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00314,OVERLAP_CAPACITY,Appointment,APPT-2026-013447,APPT-2026-013742,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00315,OVERLAP_CAPACITY,Appointment,APPT-2026-013566,APPT-2026-012455,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00316,OVERLAP_CAPACITY,Appointment,APPT-2026-013580,APPT-2026-015622,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00317,OVERLAP_CAPACITY,Appointment,APPT-2026-013713,APPT-2026-015038,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00318,OVERLAP_CAPACITY,Appointment,APPT-2026-013742,APPT-2026-013447,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00319,OVERLAP_CAPACITY,Appointment,APPT-2026-014347,APPT-2026-015008,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00320,OVERLAP_CAPACITY,Appointment,APPT-2026-014389,APPT-2026-012203,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00321,OVERLAP_CAPACITY,Appointment,APPT-2026-014890,APPT-2026-013261,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00322,OVERLAP_CAPACITY,Appointment,APPT-2026-015008,APPT-2026-014347,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00323,OVERLAP_CAPACITY,Appointment,APPT-2026-015038,APPT-2026-013713,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00324,OVERLAP_CAPACITY,Appointment,APPT-2026-015585,APPT-2026-016008,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00325,OVERLAP_CAPACITY,Appointment,APPT-2026-015622,APPT-2026-013580,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00326,OVERLAP_CAPACITY,Appointment,APPT-2026-015723,APPT-2026-017319,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00327,OVERLAP_CAPACITY,Appointment,APPT-2026-015760,APPT-2026-016136,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00328,OVERLAP_CAPACITY,Appointment,APPT-2026-016008,APPT-2026-015585,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00329,OVERLAP_CAPACITY,Appointment,APPT-2026-016027,APPT-2026-016540,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00330,OVERLAP_CAPACITY,Appointment,APPT-2026-016136,APPT-2026-015760,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00331,OVERLAP_CAPACITY,Appointment,APPT-2026-016248,APPT-2026-017768,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00332,OVERLAP_CAPACITY,Appointment,APPT-2026-016341,APPT-2026-017431,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00333,OVERLAP_CAPACITY,Appointment,APPT-2026-016540,APPT-2026-016027,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00334,OVERLAP_CAPACITY,Appointment,APPT-2026-016584,APPT-2026-017244,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00335,OVERLAP_CAPACITY,Appointment,APPT-2026-016608,APPT-2026-016973,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00336,OVERLAP_CAPACITY,Appointment,APPT-2026-016623,APPT-2026-017921,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00337,OVERLAP_CAPACITY,Appointment,APPT-2026-016973,APPT-2026-016608,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00338,OVERLAP_CAPACITY,Appointment,APPT-2026-017162,APPT-2026-017363,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00339,OVERLAP_CAPACITY,Appointment,APPT-2026-017244,APPT-2026-016584,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00340,OVERLAP_CAPACITY,Appointment,APPT-2026-017319,APPT-2026-015723,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00341,OVERLAP_CAPACITY,Appointment,APPT-2026-017363,APPT-2026-017162,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00342,OVERLAP_CAPACITY,Appointment,APPT-2026-017431,APPT-2026-016341,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00343,OVERLAP_CAPACITY,Appointment,APPT-2026-017551,APPT-2026-017567,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00344,OVERLAP_CAPACITY,Appointment,APPT-2026-017567,APPT-2026-017551,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00345,OVERLAP_CAPACITY,Appointment,APPT-2026-017697,APPT-2026-017736,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00346,OVERLAP_CAPACITY,Appointment,APPT-2026-017736,APPT-2026-017697,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00347,OVERLAP_CAPACITY,Appointment,APPT-2026-017768,APPT-2026-016248,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00348,OVERLAP_CAPACITY,Appointment,APPT-2026-017921,APPT-2026-016623,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00349,OVERLAP_CAPACITY,Appointment,APPT-2026-017989,APPT-2026-018247,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00350,OVERLAP_CAPACITY,Appointment,APPT-2026-018147,APPT-2026-019299,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00351,OVERLAP_CAPACITY,Appointment,APPT-2026-018247,APPT-2026-017989,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00352,OVERLAP_CAPACITY,Appointment,APPT-2026-018463,APPT-2026-019422,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00353,OVERLAP_CAPACITY,Appointment,APPT-2026-018792,APPT-2026-019733,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00354,OVERLAP_CAPACITY,Appointment,APPT-2026-018907,APPT-2026-019520,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00355,OVERLAP_CAPACITY,Appointment,APPT-2026-019299,APPT-2026-018147,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00356,OVERLAP_CAPACITY,Appointment,APPT-2026-019422,APPT-2026-018463,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00357,OVERLAP_CAPACITY,Appointment,APPT-2026-019520,APPT-2026-018907,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00358,OVERLAP_CAPACITY,Appointment,APPT-2026-019692,APPT-2026-019781,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00359,OVERLAP_CAPACITY,Appointment,APPT-2026-019733,APPT-2026-018792,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00360,OVERLAP_CAPACITY,Appointment,APPT-2026-019781,APPT-2026-019692,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT

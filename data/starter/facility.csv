@@ -1,0 +1,3 @@
+facility_id,name,city,timezone,open_time,close_time,effective_from,status
+FAC-001,DC Bengaluru,Bengaluru,Asia/Kolkata,06:00,22:00,2025-08-03,ACTIVE
+FAC-002,DC Mumbai,Mumbai,Asia/Kolkata,06:00,22:00,2025-08-03,ACTIVE

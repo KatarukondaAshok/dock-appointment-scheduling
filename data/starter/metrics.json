@@ -1,0 +1,43 @@
+{
+ "overall": {
+  "appointments": 1000,
+  "rejected_rate": 0.122,
+  "no_show_rate": 0.027,
+  "avg_dock_wait_min": 12.85,
+  "p90_dock_wait_min": 29.0,
+  "avg_actual_vs_planned_service": 1.042,
+  "dock_utilization": 0.194
+ },
+ "by_facility": {
+  "FAC-001": {
+   "appointments": 470,
+   "rejected_rate": 0.117,
+   "no_show_rate": 0.0298,
+   "avg_dock_wait_min": 11.94,
+   "p90_dock_wait_min": 26.0,
+   "avg_actual_vs_planned_service": 1.042,
+   "dock_utilization": 0.183
+  },
+  "FAC-002": {
+   "appointments": 530,
+   "rejected_rate": 0.1264,
+   "no_show_rate": 0.0245,
+   "avg_dock_wait_min": 13.67,
+   "p90_dock_wait_min": 31.0,
+   "avg_actual_vs_planned_service": 1.041,
+   "dock_utilization": 0.2049
+  }
+ },
+ "exceptions_by_cause": {
+  "CHECKIN_BEFORE_DATE": 3,
+  "CONGESTION_DELAY": 82,
+  "EARLY_ARRIVAL": 88,
+  "INCOMPATIBLE_LOAD": 3,
+  "LABOR_UNAVAILABLE": 3,
+  "LATE_ARRIVAL": 40,
+  "NOSHOW_UNRECORDED": 3,
+  "NO_SHOW": 27,
+  "OVERLAP_CAPACITY": 6,
+  "REJECTED_NO_CAPACITY": 122
+ }
+}

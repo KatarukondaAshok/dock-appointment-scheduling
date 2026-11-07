@@ -1,0 +1,11 @@
+facility_id,name,city,timezone,open_time,close_time,effective_from,status
+FAC-001,DC Bengaluru,Bengaluru,Asia/Kolkata,06:00,22:00,2025-08-03,ACTIVE
+FAC-002,DC Mumbai,Mumbai,Asia/Kolkata,06:00,22:00,2025-08-03,ACTIVE
+FAC-003,DC Delhi,Delhi,Asia/Kolkata,06:00,22:00,2025-08-03,ACTIVE
+FAC-004,DC Chennai,Chennai,Asia/Kolkata,06:00,22:00,2025-08-03,ACTIVE
+FAC-005,DC Hyderabad,Hyderabad,Asia/Kolkata,06:00,22:00,2025-08-03,ACTIVE
+FAC-006,DC Pune,Pune,Asia/Kolkata,06:00,22:00,2025-08-03,ACTIVE
+FAC-007,DC Kolkata,Kolkata,Asia/Kolkata,06:00,22:00,2025-08-03,ACTIVE
+FAC-008,DC Ahmedabad,Ahmedabad,Asia/Kolkata,06:00,22:00,2025-08-03,ACTIVE
+FAC-009,DC Jaipur,Jaipur,Asia/Kolkata,06:00,22:00,2025-08-03,ACTIVE
+FAC-010,DC Kochi,Kochi,Asia/Kolkata,06:00,22:00,2025-08-03,ACTIVE

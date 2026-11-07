@@ -1,0 +1,115 @@
+{
+ "overall": {
+  "appointments": 20000,
+  "rejected_rate": 0.0574,
+  "no_show_rate": 0.0269,
+  "avg_dock_wait_min": 10.74,
+  "p90_dock_wait_min": 24.0,
+  "avg_actual_vs_planned_service": 1.041,
+  "dock_utilization": 0.1931
+ },
+ "by_facility": {
+  "FAC-001": {
+   "appointments": 2136,
+   "rejected_rate": 0.0534,
+   "no_show_rate": 0.0276,
+   "avg_dock_wait_min": 11.38,
+   "p90_dock_wait_min": 25.0,
+   "avg_actual_vs_planned_service": 1.046,
+   "dock_utilization": 0.2078
+  },
+  "FAC-002": {
+   "appointments": 1894,
+   "rejected_rate": 0.0259,
+   "no_show_rate": 0.0232,
+   "avg_dock_wait_min": 10.41,
+   "p90_dock_wait_min": 23.0,
+   "avg_actual_vs_planned_service": 1.037,
+   "dock_utilization": 0.1883
+  },
+  "FAC-003": {
+   "appointments": 1722,
+   "rejected_rate": 0.0348,
+   "no_show_rate": 0.0279,
+   "avg_dock_wait_min": 9.78,
+   "p90_dock_wait_min": 21.0,
+   "avg_actual_vs_planned_service": 1.038,
+   "dock_utilization": 0.1716
+  },
+  "FAC-004": {
+   "appointments": 2127,
+   "rejected_rate": 0.039,
+   "no_show_rate": 0.0221,
+   "avg_dock_wait_min": 10.96,
+   "p90_dock_wait_min": 23.0,
+   "avg_actual_vs_planned_service": 1.042,
+   "dock_utilization": 0.2089
+  },
+  "FAC-005": {
+   "appointments": 2173,
+   "rejected_rate": 0.0534,
+   "no_show_rate": 0.0299,
+   "avg_dock_wait_min": 11.69,
+   "p90_dock_wait_min": 26.0,
+   "avg_actual_vs_planned_service": 1.04,
+   "dock_utilization": 0.2115
+  },
+  "FAC-006": {
+   "appointments": 2002,
+   "rejected_rate": 0.0504,
+   "no_show_rate": 0.0275,
+   "avg_dock_wait_min": 10.81,
+   "p90_dock_wait_min": 25.0,
+   "avg_actual_vs_planned_service": 1.038,
+   "dock_utilization": 0.195
+  },
+  "FAC-007": {
+   "appointments": 2068,
+   "rejected_rate": 0.0933,
+   "no_show_rate": 0.0227,
+   "avg_dock_wait_min": 10.94,
+   "p90_dock_wait_min": 24.0,
+   "avg_actual_vs_planned_service": 1.04,
+   "dock_utilization": 0.1906
+  },
+  "FAC-008": {
+   "appointments": 1786,
+   "rejected_rate": 0.0594,
+   "no_show_rate": 0.0246,
+   "avg_dock_wait_min": 9.91,
+   "p90_dock_wait_min": 20.0,
+   "avg_actual_vs_planned_service": 1.041,
+   "dock_utilization": 0.1715
+  },
+  "FAC-009": {
+   "appointments": 1885,
+   "rejected_rate": 0.0775,
+   "no_show_rate": 0.0297,
+   "avg_dock_wait_min": 10.06,
+   "p90_dock_wait_min": 21.0,
+   "avg_actual_vs_planned_service": 1.042,
+   "dock_utilization": 0.178
+  },
+  "FAC-010": {
+   "appointments": 2207,
+   "rejected_rate": 0.0816,
+   "no_show_rate": 0.0331,
+   "avg_dock_wait_min": 11.07,
+   "p90_dock_wait_min": 24.0,
+   "avg_actual_vs_planned_service": 1.041,
+   "dock_utilization": 0.2078
+  }
+ },
+ "exceptions_by_cause": {
+  "CHECKIN_BEFORE_DATE": 60,
+  "CONGESTION_DELAY": 919,
+  "EARLY_ARRIVAL": 1743,
+  "INCOMPATIBLE_LOAD": 60,
+  "LABOR_UNAVAILABLE": 60,
+  "LATE_ARRIVAL": 1014,
+  "NOSHOW_UNRECORDED": 60,
+  "NO_SHOW": 538,
+  "OVERLAP_CAPACITY": 120,
+  "REJECTED_NO_CAPACITY": 1148
+ }
+}

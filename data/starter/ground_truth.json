@@ -1,0 +1,182 @@
+[
+ {
+  "anomaly_id": "GT-00001",
+  "issue_type": "CHECKIN_BEFORE_DATE",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000011",
+  "related_entity_id": null,
+  "role": "INJECTED",
+  "rule_violated": "CHECK_IN recorded before the appointment date",
+  "expected_decision": "HOLD_IN_YARD_OR_REJECT_CHECKIN"
+ },
+ {
+  "anomaly_id": "GT-00002",
+  "issue_type": "CHECKIN_BEFORE_DATE",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000493",
+  "related_entity_id": null,
+  "role": "INJECTED",
+  "rule_violated": "CHECK_IN recorded before the appointment date",
+  "expected_decision": "HOLD_IN_YARD_OR_REJECT_CHECKIN"
+ },
+ {
+  "anomaly_id": "GT-00003",
+  "issue_type": "CHECKIN_BEFORE_DATE",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000776",
+  "related_entity_id": null,
+  "role": "INJECTED",
+  "rule_violated": "CHECK_IN recorded before the appointment date",
+  "expected_decision": "HOLD_IN_YARD_OR_REJECT_CHECKIN"
+ },
+ {
+  "anomaly_id": "GT-00004",
+  "issue_type": "INCOMPATIBLE_LOAD",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000077",
+  "related_entity_id": null,
+  "role": "INJECTED",
+  "rule_violated": "Load requirement incompatible with assigned dock, vehicle or direction",
+  "expected_decision": "REASSIGN_TO_COMPATIBLE_DOCK"
+ },
+ {
+  "anomaly_id": "GT-00005",
+  "issue_type": "INCOMPATIBLE_LOAD",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000323",
+  "related_entity_id": null,
+  "role": "INJECTED",
+  "rule_violated": "Load requirement incompatible with assigned dock, vehicle or direction",
+  "expected_decision": "REASSIGN_TO_COMPATIBLE_DOCK"
+ },
+ {
+  "anomaly_id": "GT-00006",
+  "issue_type": "INCOMPATIBLE_LOAD",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000353",
+  "related_entity_id": null,
+  "role": "INJECTED",
+  "rule_violated": "Load requirement incompatible with assigned dock, vehicle or direction",
+  "expected_decision": "REASSIGN_TO_COMPATIBLE_DOCK"
+ },
+ {
+  "anomaly_id": "GT-00007",
+  "issue_type": "LABOR_UNAVAILABLE",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000069",
+  "related_entity_id": null,
+  "role": "INJECTED",
+  "rule_violated": "No active labor shift covers the appointment start",
+  "expected_decision": "RESCHEDULE_TO_STAFFED_SHIFT"
+ },
+ {
+  "anomaly_id": "GT-00008",
+  "issue_type": "LABOR_UNAVAILABLE",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000098",
+  "related_entity_id": null,
+  "role": "INJECTED",
+  "rule_violated": "No active labor shift covers the appointment start",
+  "expected_decision": "RESCHEDULE_TO_STAFFED_SHIFT"
+ },
+ {
+  "anomaly_id": "GT-00009",
+  "issue_type": "LABOR_UNAVAILABLE",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000746",
+  "related_entity_id": null,
+  "role": "INJECTED",
+  "rule_violated": "No active labor shift covers the appointment start",
+  "expected_decision": "RESCHEDULE_TO_STAFFED_SHIFT"
+ },
+ {
+  "anomaly_id": "GT-00010",
+  "issue_type": "NOSHOW_UNRECORDED",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000080",
+  "related_entity_id": null,
+  "role": "INJECTED",
+  "rule_violated": "Appointment never progressed past SCHEDULED and no NO_SHOW was recorded",
+  "expected_decision": "RECORD_NO_SHOW_EVENT"
+ },
+ {
+  "anomaly_id": "GT-00011",
+  "issue_type": "NOSHOW_UNRECORDED",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000180",
+  "related_entity_id": null,
+  "role": "INJECTED",
+  "rule_violated": "Appointment never progressed past SCHEDULED and no NO_SHOW was recorded",
+  "expected_decision": "RECORD_NO_SHOW_EVENT"
+ },
+ {
+  "anomaly_id": "GT-00012",
+  "issue_type": "NOSHOW_UNRECORDED",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000198",
+  "related_entity_id": null,
+  "role": "INJECTED",
+  "rule_violated": "Appointment never progressed past SCHEDULED and no NO_SHOW was recorded",
+  "expected_decision": "RECORD_NO_SHOW_EVENT"
+ },
+ {
+  "anomaly_id": "GT-00013",
+  "issue_type": "OVERLAP_CAPACITY",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000016",
+  "related_entity_id": "APPT-2026-000385",
+  "role": "COUNTERPART",
+  "rule_violated": "Appointments overlap on a dock with capacity 1",
+  "expected_decision": "RESCHEDULE_ONE_APPOINTMENT"
+ },
+ {
+  "anomaly_id": "GT-00014",
+  "issue_type": "OVERLAP_CAPACITY",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000024",
+  "related_entity_id": "APPT-2026-000135",
+  "role": "INJECTED",
+  "rule_violated": "Appointments overlap on a dock with capacity 1",
+  "expected_decision": "RESCHEDULE_ONE_APPOINTMENT"
+ },
+ {
+  "anomaly_id": "GT-00015",
+  "issue_type": "OVERLAP_CAPACITY",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000135",
+  "related_entity_id": "APPT-2026-000024",
+  "role": "COUNTERPART",
+  "rule_violated": "Appointments overlap on a dock with capacity 1",
+  "expected_decision": "RESCHEDULE_ONE_APPOINTMENT"
+ },
+ {
+  "anomaly_id": "GT-00016",
+  "issue_type": "OVERLAP_CAPACITY",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000385",
+  "related_entity_id": "APPT-2026-000016",
+  "role": "INJECTED",
+  "rule_violated": "Appointments overlap on a dock with capacity 1",
+  "expected_decision": "RESCHEDULE_ONE_APPOINTMENT"
+ },
+ {
+  "anomaly_id": "GT-00017",
+  "issue_type": "OVERLAP_CAPACITY",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000437",
+  "related_entity_id": "APPT-2026-000481",
+  "role": "COUNTERPART",
+  "rule_violated": "Appointments overlap on a dock with capacity 1",
+  "expected_decision": "RESCHEDULE_ONE_APPOINTMENT"
+ },
+ {
+  "anomaly_id": "GT-00018",
+  "issue_type": "OVERLAP_CAPACITY",
+  "entity": "Appointment",
+  "entity_id": "APPT-2026-000481",
+  "related_entity_id": "APPT-2026-000437",
+  "role": "INJECTED",
+  "rule_violated": "Appointments overlap on a dock with capacity 1",
+  "expected_decision": "RESCHEDULE_ONE_APPOINTMENT"
+ }
+]

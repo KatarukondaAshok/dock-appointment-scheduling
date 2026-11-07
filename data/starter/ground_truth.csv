@@ -1,0 +1,19 @@
+anomaly_id,issue_type,entity,entity_id,related_entity_id,role,rule_violated,expected_decision
+GT-00001,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-000011,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00002,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-000493,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00003,CHECKIN_BEFORE_DATE,Appointment,APPT-2026-000776,,INJECTED,CHECK_IN recorded before the appointment date,HOLD_IN_YARD_OR_REJECT_CHECKIN
+GT-00004,INCOMPATIBLE_LOAD,Appointment,APPT-2026-000077,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00005,INCOMPATIBLE_LOAD,Appointment,APPT-2026-000323,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00006,INCOMPATIBLE_LOAD,Appointment,APPT-2026-000353,,INJECTED,"Load requirement incompatible with assigned dock, vehicle or direction",REASSIGN_TO_COMPATIBLE_DOCK
+GT-00007,LABOR_UNAVAILABLE,Appointment,APPT-2026-000069,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00008,LABOR_UNAVAILABLE,Appointment,APPT-2026-000098,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00009,LABOR_UNAVAILABLE,Appointment,APPT-2026-000746,,INJECTED,No active labor shift covers the appointment start,RESCHEDULE_TO_STAFFED_SHIFT
+GT-00010,NOSHOW_UNRECORDED,Appointment,APPT-2026-000080,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00011,NOSHOW_UNRECORDED,Appointment,APPT-2026-000180,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00012,NOSHOW_UNRECORDED,Appointment,APPT-2026-000198,,INJECTED,Appointment never progressed past SCHEDULED and no NO_SHOW was recorded,RECORD_NO_SHOW_EVENT
+GT-00013,OVERLAP_CAPACITY,Appointment,APPT-2026-000016,APPT-2026-000385,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00014,OVERLAP_CAPACITY,Appointment,APPT-2026-000024,APPT-2026-000135,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00015,OVERLAP_CAPACITY,Appointment,APPT-2026-000135,APPT-2026-000024,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00016,OVERLAP_CAPACITY,Appointment,APPT-2026-000385,APPT-2026-000016,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00017,OVERLAP_CAPACITY,Appointment,APPT-2026-000437,APPT-2026-000481,COUNTERPART,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT
+GT-00018,OVERLAP_CAPACITY,Appointment,APPT-2026-000481,APPT-2026-000437,INJECTED,Appointments overlap on a dock with capacity 1,RESCHEDULE_ONE_APPOINTMENT

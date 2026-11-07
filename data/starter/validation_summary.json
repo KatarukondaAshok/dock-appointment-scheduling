@@ -1,0 +1,423 @@
+{
+ "passed": true,
+ "checks_run": 66,
+ "checks": [
+  {
+   "check": "pk_unique:facility",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "required_and_enum:facility",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "id_format:facility",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "pk_unique:dock",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "required_and_enum:dock",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "id_format:dock",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:dock.facility_id->facility.facility_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "pk_unique:yard_slot",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "required_and_enum:yard_slot",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "id_format:yard_slot",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:yard_slot.facility_id->facility.facility_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "pk_unique:carrier",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "required_and_enum:carrier",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "id_format:carrier",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "pk_unique:carrier_facility",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "required_and_enum:carrier_facility",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "id_format:carrier_facility",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:carrier_facility.carrier_id->carrier.carrier_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:carrier_facility.facility_id->facility.facility_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "pk_unique:vehicle",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "required_and_enum:vehicle",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "id_format:vehicle",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:vehicle.carrier_id->carrier.carrier_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "pk_unique:handling_requirement",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "required_and_enum:handling_requirement",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "id_format:handling_requirement",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "pk_unique:appointment",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "required_and_enum:appointment",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "id_format:appointment",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:appointment.facility_id->facility.facility_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:appointment.dock_id->dock.dock_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:appointment.yard_slot_id->yard_slot.yard_slot_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:appointment.carrier_id->carrier.carrier_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:appointment.vehicle_id->vehicle.vehicle_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "pk_unique:shipment",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "required_and_enum:shipment",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "id_format:shipment",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:shipment.appointment_id->appointment.appointment_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:shipment.requirement_id->handling_requirement.requirement_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "pk_unique:labor_shift",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "required_and_enum:labor_shift",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "id_format:labor_shift",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:labor_shift.facility_id->facility.facility_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "pk_unique:check_in_event",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "required_and_enum:check_in_event",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "id_format:check_in_event",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:check_in_event.appointment_id->appointment.appointment_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "pk_unique:exception_record",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "required_and_enum:exception_record",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "id_format:exception_record",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "fk:exception_record.appointment_id->appointment.appointment_id",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "date_ordering",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "derived_planned_minutes",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "shipment_conditional_fields",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "parent_child_consistency",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "labor_headcount_vs_status",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "lifecycle_transitions",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "status_reconciles_with_last_event",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "event_timeline_valid",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "duplicate_events",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "rule_engine_matches_ground_truth:OVERLAP_CAPACITY",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "rule_engine_matches_ground_truth:INCOMPATIBLE_LOAD",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "rule_engine_matches_ground_truth:CHECKIN_BEFORE_DATE",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "rule_engine_matches_ground_truth:LABOR_UNAVAILABLE",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "rule_engine_matches_ground_truth:NOSHOW_UNRECORDED",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  },
+  {
+   "check": "exceptions_cover_rule_engine",
+   "violations": 0,
+   "passed": true,
+   "examples": []
+  }
+ ],
+ "row_counts": {
+  "facility": 2,
+  "dock": 20,
+  "yard_slot": 24,
+  "carrier": 30,
+  "carrier_facility": 60,
+  "vehicle": 300,
+  "handling_requirement": 3,
+  "appointment": 1000,
+  "shipment": 1000,
+  "labor_shift": 56,
+  "check_in_event": 4419,
+  "exception_record": 377
+ },
+ "ground_truth_counts": {
+  "OVERLAP_CAPACITY": 6,
+  "INCOMPATIBLE_LOAD": 3,
+  "CHECKIN_BEFORE_DATE": 3,
+  "LABOR_UNAVAILABLE": 3,
+  "NOSHOW_UNRECORDED": 3
+ }
+}

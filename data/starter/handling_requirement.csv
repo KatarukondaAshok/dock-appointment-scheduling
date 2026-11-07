@@ -1,0 +1,4 @@
+requirement_id,requirement_code,base_service_min,per_pallet_min,labor_required,needs_reefer_dock,needs_hazmat_dock,yard_slot_type
+HR-001,DRY,30,1.0,2,0,0,STANDARD
+HR-002,REEFER,45,1.5,3,1,0,REEFER
+HR-003,HAZMAT,60,2.0,3,0,1,HAZMAT

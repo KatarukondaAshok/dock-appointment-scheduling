@@ -1,0 +1,49 @@
+{
+ "seed": 20261022,
+ "parameters": {
+  "seed": 20261022,
+  "facilities": 2,
+  "docks": 10,
+  "appts": 1000,
+  "days": 14,
+  "start": "2026-08-03",
+  "carriers": 30,
+  "anom_rate": 0.003
+ },
+ "row_counts": {
+  "facility": 2,
+  "dock": 20,
+  "yard_slot": 24,
+  "carrier": 30,
+  "carrier_facility": 60,
+  "vehicle": 300,
+  "handling_requirement": 3,
+  "appointment": 1000,
+  "shipment": 1000,
+  "labor_shift": 56,
+  "check_in_event": 4419,
+  "exception_record": 377
+ },
+ "ground_truth_rows": 18,
+ "sha256": {
+  "appointment.csv": "782db035b06b27052afef1a7182ba999b49e156db21842add9e151db7feed8fb",
+  "carrier.csv": "5935dc19d4648ee8438cff1af594d3ae04997430bfbc2959800978653a36c4b0",
+  "carrier_facility.csv": "435a0c34013f480c163d0a3458eedf3012312531e32c8572699d3d7c5f118b70",
+  "check_in_event.csv": "382785708879ac48b9ed6c022e17f5b874b1944ca98c21ec8d739bc5877db4e4",
+  "dataset.json": "f4cd8e1ccf0d5414cdcf0ca12ceef80dcebc9d280516f16ea143985e2192a5d3",
+  "dock.csv": "18120139b21195dbfe0200dbcd1b9387ea685815002a3a9f09749b641260c247",
+  "exception_record.csv": "a46a8df4c8e7e2a0e3c38b61c2c3830bed44a80e3630e3277c0cbe69ce4c2745",
+  "facility.csv": "115bf5b9255b6bc8f26e5f57ed9f5e91a3286061a7bca2d1fbbf8677796985fd",
+  "ground_truth.csv": "5ea7fcfbfaa2c3f8b1ea91f642237f198c38d3aa2336485d7d53afd0a0549c3c",
+  "ground_truth.json": "5ee90ee87af9936a6f5137e0979a836bad8a2f258fdd88c0d5c2a28cd39b0321",
+  "handling_requirement.csv": "e8ed6a11c6c3cb2bcd55ac8873f74400bcc74368591803c08269007bc72e5fd5",
+  "labor_shift.csv": "e64f024b9a0d1029ef307348163c12dcd8b0063dfef5fdf40690128fb9df7dd3",
+  "schema.sql": "13c468a639371d9ef46bef02fbced192bb0e60aaa073da8297645f9779cbb417",
+  "seed.sql": "0d9d71247dbf9635fd511d72c294a0df05f3edd36ba0d6a731b76411bae6c9ff",
+  "shipment.csv": "14cbb27e2c501e5edb2b059de3b0034e283f49c5fd131908c177decb610ff1af",
+  "vehicle.csv": "377c5b10071fe38179a7b8fa13f29ead0183c300ac537bc1070337020d345e35",
+  "yard_slot.csv": "d8fd941ca5a2ce0540287f528e82de3eade926fb949b12fd1d4d3fcae0d53b16"
+ },
+ "command": "python -m dock_scheduling.generate --seed 20261022 --facilities 2 --docks 10 --appts 1000 --days 14 --start 2026-08-03 --carriers 30 --anom-rate 0.003 --out data/starter",
+ "sources": "No external data used. 100% synthetic; generated from documented rules in dock_scheduling/generate.py (schema inspiration only: generic WMS/YMS dock-scheduling concepts)."
+}
